@@ -19,11 +19,11 @@ Please use https://etherscan.io for getting contract code and ABI and https://gi
 
 Ready to retrieve contract info:
 
-![001_ready](https://user-images.githubusercontent.com/27812408/43685088-2d46e2bc-98b5-11e8-825f-8a9443a76d89.png)
+![001_ready_adjusted](https://user-images.githubusercontent.com/27812408/43685187-15469ea8-98b7-11e8-9c4f-ed1dbed7bce8.png)
 
 Retrieving contract info:
 
-![002_retrieving](https://user-images.githubusercontent.com/27812408/43685093-3bb5ecf8-98b5-11e8-9702-adfa50245441.png)
+![002_retrieving_adjusted](https://user-images.githubusercontent.com/27812408/43685189-24aa734c-98b7-11e8-8479-d08850151780.png)
 
 Failed to retrieve contract info:
 
